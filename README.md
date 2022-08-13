@@ -47,10 +47,10 @@ Course Description: Learn about functions, arguments, and return values (oh my!)
 - [Refueling](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_fuel) - uses pytest to check for ZeroDivisionErrors and ValueErrors
 
 ## Week 6 - File I/O
-- [Lines of Code](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/lines)
-- [Pizza Py](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/pizza)
-- [Scourgify](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/scourgify)
-- [CS50 P-Shirt](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/shirt)
+- [Lines of Code](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/lines) - calculates lines of code in a python file, ignoring comments and blank lines, only accepts python files
+- [Pizza Py](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/pizza) - makes ascii art menu from a csv menu file, exits if file not entered, not found or not a csv file
+- [Scourgify](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/scourgify) - accepts a csv with ["Lastname, Firstname", House] and outputs a csv with [Firstname, Lastname, House]
+- [CS50 P-Shirt](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/shirt) - accepts an original image file and output image file, pastes an image over the original and saves to the output image file
 
 ## Week 7 - Regular Expressions
 - [Numb3rs](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/numb3rs)
