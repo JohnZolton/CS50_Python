@@ -1,22 +1,22 @@
-# CS50-Python
+# CS50 - Python
 My solutions to Harvard's CS50 Python course
 
 Course Description: Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems.
 
 ## Week 0 - Functions, Variables
-- [Indoor Voice](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/indoor.py)
-- [Playback Speed](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/playback.py)
-- [Making Faces](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/faces.py)
-- [Einstein](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/einstein.py)
-- [Tip Calculator](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/tip.py)
+- [Indoor Voice](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/indoor.py) - convert input to lowercase
+- [Playback Speed](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/playback.py) - replace ' ' with '...'
+- [Making Faces](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/faces.py) - replace :) and :( with emojis
+- [Einstein](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/einstein.py) - calculates e = mc^2
+- [Tip Calculator](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/tip.py) - calulates a tip given % tip and total bill
  
 ## Week 1 - Conditionals
 
-- [Deep Thought](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/deep.py)
-- [Home Federal Savings Bank](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/bank.py)
-- [File Extensions](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/extensions.py)
-- [Math Interpreter](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/interpreter.py)
-- [Meal Time](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/meal.py)
+- [Deep Thought](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/deep.py) - matches a response to certain user input
+- [Home Federal Savings Bank](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/bank.py) - returns different answers depending on user input
+- [File Extensions](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/extensions.py) - determines filetype of a user input
+- [Math Interpreter](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/interpreter.py) - solves a user input math equation
+- [Meal Time](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/meal.py) - splits user input to determine if its mealtime
 
 
 ## Week  2 - Loops
