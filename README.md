@@ -53,11 +53,11 @@ Course Description: Learn about functions, arguments, and return values (oh my!)
 - [CS50 P-Shirt](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/shirt) - accepts an original image file and output image file, pastes an image over the original and saves to the output image file
 
 ## Week 7 - Regular Expressions
-- [Numb3rs](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/numb3rs)
-- [Watch on Youtube](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/watch)
-- [Working 9 to 5](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/working)
-- [Regular, um, expressions](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/um)
-- [Response Validation](https://github.com/JohnZolton/CS50-Python/blob/main/Week%207%20-%20Regular%20Expressions/response.py)
+- [Numb3rs](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/numb3rs) - determines if user input a valid IPv4 address, with separate unit test
+- [Watch on Youtube](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/watch) - parses an embedded URL and returns a shareable URL
+- [Working 9 to 5](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/working) - accepts work hours in "9:00 AM to 5:00 PM" and "9 AM to 5 PM" format and converts to military time, checks for invalid formats and impossible times
+- [Regular, um, expressions](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/um) - counts how many times "um" is said in an input. ignores when 'um' is in a word like "yum"
+- [Response Validation](https://github.com/JohnZolton/CS50-Python/blob/main/Week%207%20-%20Regular%20Expressions/response.py) - uses validator_collection library to check if an email is in a valid email address format
 
 ## Week 8 - Object-Oriented Programming
 - [Seasons of Love](https://github.com/JohnZolton/CS50-Python/tree/main/Week%208%20-%20OOP/seasons)
