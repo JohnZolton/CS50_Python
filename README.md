@@ -1,5 +1,5 @@
 # CS50-Python
-Harvard's CS50 Python course
+My solutions to Harvard's CS50 Python course
 
 ## Week 0 - Functions, Variables
 - [Indoor Voice](https://github.com/JohnZolton/CS50-Python/blob/main/indoor.py)
