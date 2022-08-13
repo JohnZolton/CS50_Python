@@ -60,6 +60,6 @@ Course Description: Learn about functions, arguments, and return values (oh my!)
 - [Response Validation](https://github.com/JohnZolton/CS50-Python/blob/main/Week%207%20-%20Regular%20Expressions/response.py) - uses validator_collection library to check if an email is in a valid email address format
 
 ## Week 8 - Object-Oriented Programming
-- [Seasons of Love](https://github.com/JohnZolton/CS50-Python/tree/main/Week%208%20-%20OOP/seasons)
-- [Cookie Jar](https://github.com/JohnZolton/CS50-Python/tree/main/Week%208%20-%20OOP/jar)
-- [CS50 Shirtificate](https://github.com/JohnZolton/CS50-Python/tree/main/Week%208%20-%20OOP/shirtificate)
+- [Seasons of Love](https://github.com/JohnZolton/CS50-Python/tree/main/Week%208%20-%20OOP/seasons) - calculates how many minutes have passed since a given date, returns answer in words a la "five hundred twenty-five thousand six hundred mintues"
+- [Cookie Jar](https://github.com/JohnZolton/CS50-Python/tree/main/Week%208%20-%20OOP/jar) - creates a cookie jar class with specified capacity and deposit/withdraw methods and properties for capacity and cookies currently in the jar
+- [CS50 Shirtificate](https://github.com/JohnZolton/CS50-Python/tree/main/Week%208%20-%20OOP/shirtificate) - creates a PDF class using fpdf library. Includes a shirt image overlayed with "{name} took CS50"
