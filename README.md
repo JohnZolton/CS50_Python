@@ -27,10 +27,10 @@ Course Description: Learn about functions, arguments, and return values (oh my!)
 - [Nutrition Facts](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/nutrition.py) - returns calorie content of a fruit from user input
 
 ## Week  3 - Exceptions
-- [Fuel Gauge](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/fuel.py)
-- [Felipe's Taqueria](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/taqueria.py)
-- [Grocery List](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/grocery.py)
-- [Outdates](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/outdated.py)
+- [Fuel Gauge](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/fuel.py) - Determines % gas tank fullness, checks input for ValueError and ZeroDivisionError
+- [Felipe's Taqueria](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/taqueria.py) - Creates a running tally of a menu order, terminates on ctl+D, ignores invalid menu entries
+- [Grocery List](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/grocery.py) - creates a gocery list from user input, terminates on ctl+D, catches any KeyErrors
+- [Outdates](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/outdated.py) - converts MM/DD/YYYY and Month Day, Year to YYYY-MM-DD, continually asks for proper input
 
 ## Week 4 - Libraries
 - [Emojize](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/emojize.py)
