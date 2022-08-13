@@ -41,10 +41,10 @@ Course Description: Learn about functions, arguments, and return values (oh my!)
 - [Bitcoin Price Index](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/bitcoin.py) - uses requests and json libraries to pull BTC price from site
 
 ## Week 5 - Unit Tests
-- [Testing my  twittr](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_twttr)
-- [Back to the Bank](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_bank)
-- [Re-requesting a vanity plate](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_plates)
-- [Refueling](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_fuel)
+- [Testing my  twittr](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_twttr) - tests prior function under various cases
+- [Back to the Bank](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_bank) - tests prior function under various cases
+- [Re-requesting a vanity plate](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_plates) - tests prior function under various cases
+- [Refueling](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_fuel) - uses pytest to check for ZeroDivisionErrors and ValueErrors
 
 ## Week 6 - File I/O
 - [Lines of Code](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/lines)
