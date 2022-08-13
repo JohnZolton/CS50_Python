@@ -27,14 +27,14 @@ Harvard's CS50 Python course
 ## Week  3 - Exceptions
 - [Fuel Gauge](https://github.com/JohnZolton/CS50-Python/blob/main/fuel.py)
 - [Felipe's Taqueria](https://github.com/JohnZolton/CS50-Python/blob/main/taqueria.py)
-- Grocery List
+- [Grocery List](https://github.com/JohnZolton/CS50-Python/blob/main/grocery.py)
 - [Outdates](https://github.com/JohnZolton/CS50-Python/blob/main/outdated.py)
 
 ## Week 4 - Libraries
 - [Emojize](https://github.com/JohnZolton/CS50-Python/blob/main/emojize.py)
 - [Frank, Ian and Glen's Letters](https://github.com/JohnZolton/CS50-Python/blob/main/figlet.py)
 - [Adieu, Adieu](https://github.com/JohnZolton/CS50-Python/blob/main/adieu.py)
-- Guessing Game
+- [Guessing Game](https://github.com/JohnZolton/CS50-Python/blob/main/game.py)
 - [Little Professor](https://github.com/JohnZolton/CS50-Python/blob/main/professor.py)
 - [Bitcoin Price Index](https://github.com/JohnZolton/CS50-Python/blob/main/bitcoin.py)
 
