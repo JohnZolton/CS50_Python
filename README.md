@@ -2,41 +2,41 @@
 My solutions to Harvard's CS50 Python course
 
 ## Week 0 - Functions, Variables
-- [Indoor Voice](https://github.com/JohnZolton/CS50-Python/blob/main/indoor.py)
-- [Playback Speed](https://github.com/JohnZolton/CS50-Python/blob/main/playback.py)
-- [Making Faces](https://github.com/JohnZolton/CS50-Python/blob/main/faces.py)
-- [Einstein](https://github.com/JohnZolton/CS50-Python/blob/main/einstein.py)
-- [Tip Calculator](https://github.com/JohnZolton/CS50-Python/blob/main/tip.py)
+- [Indoor Voice](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/indoor.py)
+- [Playback Speed](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/playback.py)
+- [Making Faces](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/faces.py)
+- [Einstein](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/einstein.py)
+- [Tip Calculator](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/tip.py)
  
 ## Week 1 - Conditionals
 
-- [Deep Thought](https://github.com/JohnZolton/CS50-Python/blob/main/deep.py)
-- [Home Federal Savings Bank](https://github.com/JohnZolton/CS50-Python/blob/main/bank.py)
-- [File Extensions](https://github.com/JohnZolton/CS50-Python/blob/main/extensions.py)
-- [Math Interpreter](https://github.com/JohnZolton/CS50-Python/blob/main/interpreter.py)
-- [Meal Time](https://github.com/JohnZolton/CS50-Python/blob/main/meal.py)
+- [Deep Thought](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/deep.py)
+- [Home Federal Savings Bank](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/bank.py)
+- [File Extensions](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/extensions.py)
+- [Math Interpreter](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/interpreter.py)
+- [Meal Time](https://github.com/JohnZolton/CS50-Python/blob/main/Week%201%20-%20Conditionals/meal.py)
 
 
 ## Week  2 - Loops
-- [camelCase](https://github.com/JohnZolton/CS50-Python/blob/main/camel.py)
-- [Coke Machine](https://github.com/JohnZolton/CS50-Python/blob/main/coke.py)
-- [Just setting up my twttr](https://github.com/JohnZolton/CS50-Python/blob/main/twttr.py)
-- [Vanity Plates](https://github.com/JohnZolton/CS50-Python/commit/09762e587f396284eec0e1f2781f54d147a7a337)
-- [Nutrition Facts](https://github.com/JohnZolton/CS50-Python/blob/main/nutrition.py)
+- [camelCase](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/camel.py)
+- [Coke Machine](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/coke.py)
+- [Just setting up my twttr](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/twttr.py)
+- [Vanity Plates](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/plates.py)
+- [Nutrition Facts](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/nutrition.py)
 
 ## Week  3 - Exceptions
-- [Fuel Gauge](https://github.com/JohnZolton/CS50-Python/blob/main/fuel.py)
-- [Felipe's Taqueria](https://github.com/JohnZolton/CS50-Python/blob/main/taqueria.py)
-- [Grocery List](https://github.com/JohnZolton/CS50-Python/blob/main/grocery.py)
-- [Outdates](https://github.com/JohnZolton/CS50-Python/blob/main/outdated.py)
+- [Fuel Gauge](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/fuel.py)
+- [Felipe's Taqueria](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/taqueria.py)
+- [Grocery List](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/grocery.py)
+- [Outdates](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/outdated.py)
 
 ## Week 4 - Libraries
-- [Emojize](https://github.com/JohnZolton/CS50-Python/blob/main/emojize.py)
-- [Frank, Ian and Glen's Letters](https://github.com/JohnZolton/CS50-Python/blob/main/figlet.py)
-- [Adieu, Adieu](https://github.com/JohnZolton/CS50-Python/blob/main/adieu.py)
-- [Guessing Game](https://github.com/JohnZolton/CS50-Python/blob/main/game.py)
-- [Little Professor](https://github.com/JohnZolton/CS50-Python/blob/main/professor.py)
-- [Bitcoin Price Index](https://github.com/JohnZolton/CS50-Python/blob/main/bitcoin.py)
+- [Emojize](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/emojize.py)
+- [Frank, Ian and Glen's Letters](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/figlet.py)
+- [Adieu, Adieu](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/adieu.py)
+- [Guessing Game](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/game.py)
+- [Little Professor](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/professor.py)
+- [Bitcoin Price Index](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/bitcoin.py)
 
 ## Week 5 - Unit Tests
 - [Testing my  twittr](https://github.com/JohnZolton/CS50-Python/blob/main/test_twttr.py)
