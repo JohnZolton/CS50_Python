@@ -20,11 +20,11 @@ Course Description: Learn about functions, arguments, and return values (oh my!)
 
 
 ## Week  2 - Loops
-- [camelCase](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/camel.py)
-- [Coke Machine](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/coke.py)
-- [Just setting up my twttr](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/twttr.py)
-- [Vanity Plates](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/plates.py)
-- [Nutrition Facts](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/nutrition.py)
+- [camelCase](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/camel.py) - contverts camelCase str to camel_case str
+- [Coke Machine](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/coke.py) - adds valid coin inputs to buy a 50 cent bottle of coke
+- [Just setting up my twttr](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/twttr.py) - removes vowels from user input string
+- [Vanity Plates](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/plates.py) - checks if desired vanity plate is valid given a variety of conditions
+- [Nutrition Facts](https://github.com/JohnZolton/CS50-Python/blob/main/Week%202%20-%20Loops/nutrition.py) - returns calorie content of a fruit from user input
 
 ## Week  3 - Exceptions
 - [Fuel Gauge](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/fuel.py)
