@@ -33,12 +33,12 @@ Course Description: Learn about functions, arguments, and return values (oh my!)
 - [Outdates](https://github.com/JohnZolton/CS50-Python/blob/main/Week%203%20-%20%20Exceptions/outdated.py) - converts MM/DD/YYYY and Month Day, Year to YYYY-MM-DD, continually asks for proper input
 
 ## Week 4 - Libraries
-- [Emojize](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/emojize.py)
-- [Frank, Ian and Glen's Letters](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/figlet.py)
-- [Adieu, Adieu](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/adieu.py)
-- [Guessing Game](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/game.py)
-- [Little Professor](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/professor.py)
-- [Bitcoin Price Index](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/bitcoin.py)
+- [Emojize](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/emojize.py) - uses emoji library to return input as emoji
+- [Frank, Ian and Glen's Letters](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/figlet.py) - Renders text in figlet fonts chosen by user's command line arg
+- [Adieu, Adieu](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/adieu.py) - uses inflect library to print a list of names as "name, name, ... and name"
+- [Guessing Game](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/game.py) - uses random library to make a number guessing game
+- [Little Professor](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/professor.py) - generates addition problems of varying difficulty based on user input
+- [Bitcoin Price Index](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/bitcoin.py) - uses requests and json libraries to pull BTC price from site
 
 ## Week 5 - Unit Tests
 - [Testing my  twittr](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_twttr)
