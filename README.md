@@ -1,6 +1,8 @@
 # CS50-Python
 My solutions to Harvard's CS50 Python course
 
+Course Description: Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems.
+
 ## Week 0 - Functions, Variables
 - [Indoor Voice](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/indoor.py)
 - [Playback Speed](https://github.com/JohnZolton/CS50-Python/blob/main/Week%200%20-%20Functions%20and%20Variables/playback.py)
@@ -39,25 +41,25 @@ My solutions to Harvard's CS50 Python course
 - [Bitcoin Price Index](https://github.com/JohnZolton/CS50-Python/blob/main/Week%204%20-%20Libraries/bitcoin.py)
 
 ## Week 5 - Unit Tests
-- [Testing my  twittr](https://github.com/JohnZolton/CS50-Python/blob/main/test_twttr.py)
-- [Back to the Bank](https://github.com/JohnZolton/CS50-Python/blob/main/test_bank.py)
-- [Re-requesting a vanity plate](https://github.com/JohnZolton/CS50-Python/blob/main/test_plates.py)
-- [Refueling](https://github.com/JohnZolton/CS50-Python/blob/main/test_fuel.py)
+- [Testing my  twittr](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_twttr)
+- [Back to the Bank](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_bank)
+- [Re-requesting a vanity plate](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_plates)
+- [Refueling](https://github.com/JohnZolton/CS50-Python/tree/main/Week%205%20-%20Unit%20Tests/test_fuel)
 
 ## Week 6 - File I/O
-- [Lines of Code](https://github.com/JohnZolton/CS50-Python/blob/main/lines.py)
-- [Pizza Py](https://github.com/JohnZolton/CS50-Python/blob/main/pizza.py)
-- [Scourgify](https://github.com/JohnZolton/CS50-Python/blob/main/scourgify.py)
-- [CS50 P-Shirt](https://github.com/JohnZolton/CS50-Python/blob/main/shirt.py)
+- [Lines of Code](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/lines)
+- [Pizza Py](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/pizza)
+- [Scourgify](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/scourgify)
+- [CS50 P-Shirt](https://github.com/JohnZolton/CS50-Python/tree/main/Week%206%20-%20File%20IO/shirt)
 
 ## Week 7 - Regular Expressions
-- [Numb3rs](https://github.com/JohnZolton/CS50-Python/blob/main/numb3rs.py)
-- [Watch on Youtube](https://github.com/JohnZolton/CS50-Python/blob/main/watch.py)
-- [Working 9 to 5](https://github.com/JohnZolton/CS50-Python/blob/main/working.py)
-- [Regular, um, expressions](https://github.com/JohnZolton/CS50-Python/blob/main/um.py)
-- [Response Validation](https://github.com/JohnZolton/CS50-Python/blob/main/response.py)
+- [Numb3rs](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/numb3rs)
+- [Watch on Youtube](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/watch)
+- [Working 9 to 5](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/working)
+- [Regular, um, expressions](https://github.com/JohnZolton/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/um)
+- [Response Validation](https://github.com/JohnZolton/CS50-Python/blob/main/Week%207%20-%20Regular%20Expressions/response.py)
 
 ## Week 8 - Object-Oriented Programming
-- [Seasons of Love](https://github.com/JohnZolton/CS50-Python/blob/main/seasons.py)
-- [Cookie Jar](https://github.com/JohnZolton/CS50-Python/blob/main/jar.py)
-- [CS50 Shirtificate](https://github.com/JohnZolton/CS50-Python/blob/main/shirtificate.py)
+- [Seasons of Love](https://github.com/JohnZolton/CS50-Python/tree/main/Week%208%20-%20OOP/seasons)
+- [Cookie Jar](https://github.com/JohnZolton/CS50-Python/tree/main/Week%208%20-%20OOP/jar)
+- [CS50 Shirtificate](https://github.com/JohnZolton/CS50-Python/tree/main/Week%208%20-%20OOP/shirtificate)
